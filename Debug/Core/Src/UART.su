@@ -1,0 +1,7 @@
+../Core/Src/UART.cpp:11:1:Uart::Uart()	16	static
+../Core/Src/UART.cpp:15:6:void Uart::UART1_init()	40	static
+../Core/Src/UART.cpp:31:6:char Uart::read()	16	static
+../Core/Src/UART.cpp:36:6:void Uart::Write(char)	16	static
+../Core/Src/UART.cpp:42:6:void Uart::WriteString(const char*)	16	static
+../Core/Src/UART.cpp:50:7:static void* Uart::operator new(size_t, UartInstanceType)	16	static
+../Core/Src/UART.cpp:55:2:Uart::~Uart()	16	static

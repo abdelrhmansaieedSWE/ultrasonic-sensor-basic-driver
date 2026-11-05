@@ -1,0 +1,2 @@
+../Core/Src/NVIC.cpp:9:1:NVIC_INIT::NVIC_INIT(ExTE_number)	24	static
+../Core/Src/NVIC.cpp:15:1:NVIC_INIT::~NVIC_INIT()	16	static

@@ -1,0 +1,10 @@
+../Core/Inc/External_interrupt.hpp:42:11:static void* Exti::operator new(size_t, EXTI_BseType)	16	static
+../Core/Src/ULTRA_SONIC.cpp:15:6:void Ultrasonic_Init()	16	static
+../Core/Src/ULTRA_SONIC.cpp:25:6:void Ultrasonic_Trigger()	16	static
+../Core/Src/ULTRA_SONIC.cpp:34:5:u32 Ultrasonic_Poll()	8	static
+../Core/Src/ULTRA_SONIC.cpp:45:5:u32 Ultrasonic_GetEchoUs()	8	static
+../Core/Src/ULTRA_SONIC.cpp:49:5:u32 Ultrasonic_GetDistanceMm()	16	static
+../Core/Src/ULTRA_SONIC.cpp:56:1:void __static_initialization_and_destruction_0()	24	static
+../Core/Src/ULTRA_SONIC.cpp:56:1:void __static_initialization_and_destruction_1()	8	static
+../Core/Src/ULTRA_SONIC.cpp:56:1:cpp)	8	static
+../Core/Src/ULTRA_SONIC.cpp:56:1:cpp)	8	static

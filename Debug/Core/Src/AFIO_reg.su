@@ -1,0 +1,3 @@
+../Core/Src/AFIO_reg.cpp:12:1:AFIO_EXTI::AFIO_EXTI()	16	static
+../Core/Src/AFIO_reg.cpp:16:1:AFIO_EXTI::~AFIO_EXTI()	16	static
+../Core/Src/AFIO_reg.cpp:20:6:void AFIO_EXTI::setExtiConfiguration(int, GPIO_Port)	32	static
